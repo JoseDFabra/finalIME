@@ -1,4 +1,4 @@
-Paso 1: Abriendo el Backend
+#Paso 1: Abriendo el Backend
 
 Abre una terminal en tu computadora.
 
@@ -6,7 +6,8 @@ Ingresa a la URL del backend utilizando el comando cd finalIME\api-cobot. Esto t
 
 Una vez dentro del directorio del backend, ejecuta el servidor utilizando el comando python manage.py runserver. Esto iniciará el servidor del backend y estará listo para atender solicitudes.
 
-Paso 2: Abriendo la Interfaz de Usuario
+
+#Paso 2: Abriendo la Interfaz de Usuario
 
 Abre otra terminal en tu computadora.
 
